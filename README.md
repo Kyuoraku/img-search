@@ -1,4 +1,4 @@
-This project is live rn! To try it, go [This link](https://img-search-pixabay.web.app/)!
+## This project is live rn! To try it, go [This link](https://img-search-pixabay.web.app/)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
